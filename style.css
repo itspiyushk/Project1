@@ -1,0 +1,47 @@
+body{
+    margin:0px;
+    padding:0px;
+    border:0px;
+}
+
+
+
+
+p{
+    background-color: white;
+    border:solid black;
+    padding: 30px;
+    height:1500px;
+    margin-left: 200px;
+    margin-right: 200px;;
+    font-size: 16px;
+}
+
+.Right-container{
+    position:absolute;
+    top:70px;
+    right:5px;
+    width:150px;
+    height:360px;
+    background-color: pink;
+}
+
+.contact{
+    position:fixed;
+    top:400px;
+    right:30px;
+        width: 50px;
+        height: 50px;
+        background:red;
+      border-radius:50%;
+}
+
+footer{
+    background-color: blueviolet;
+    height: 80px;
+}
+
+nav{
+    height: 50px;
+    background-color: blueviolet;
+}
